@@ -311,6 +311,6 @@ footer {
 ### 3. OUTPUT
 Berikut adalah hasil dari syntax diatas : <br>
 
-![Gambar soal 1](screenshot/soal1.PNG) <br>
+![Gambar 1](screenshot/ss1.PNG) <br>
 
 
